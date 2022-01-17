@@ -1,6 +1,6 @@
 # Olá! Eu sou o Leandro Castro.
 💻 - Atualmente sou estagiário de TI
-🎓 - Estudando Java Script e PHP
+🎓 - Estudando JavaScript e PHP
 📧 - Contate-me no E-mail : Leandro_castro980@hotmail.com
 🌱 - Sempre estudando e evoluindo
 
